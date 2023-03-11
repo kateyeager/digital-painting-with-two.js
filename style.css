@@ -4,13 +4,11 @@
 
 /* Center to page */
 body {
-    display: grid;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    background: lightsteelblue;
-  }
-  
-  /* diagnostic styling */
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: hsl(214, 41%, 78%);
+}
 
-  
+/* diagnostic styling */

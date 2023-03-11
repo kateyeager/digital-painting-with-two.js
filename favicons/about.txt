@@ -1,6 +1,6 @@
 This favicon was generated using the following font:
 
-- Font Title: Redressed
-- Font Author: Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence. http://www.apache.org/licenses/LICENSE-2.0.html
-- Font Source: http://fonts.gstatic.com/s/redressed/v25/x3dickHUbrmJ7wMy9MsBfPACvy_1BA.ttf
-- Font License: Apache License, version 2.0 (http://www.apache.org/licenses/LICENSE-2.0.html))
+- Font Title: Lato
+- Font Author: Copyright (c) 2010-2011 by tyPoland Lukasz Dziedzic (team@latofonts.com) with Reserved Font Name "Lato". Licensed under the SIL Open Font License, Version 1.1.
+- Font Source: http://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHvxk6XweuBCY.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
